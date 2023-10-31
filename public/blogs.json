@@ -1,0 +1,43 @@
+[
+    {
+       "ID": 12345,
+       "Cover": "https://i.ibb.co/2SkSL4w/1.jpg",
+       "Title": "Exploring the Mysteries of Quantum Mechanics",
+       "Author": "Alice Smith",
+       "Author_Image": "https://i.ibb.co/NWTrMqW/boy1.png",
+       "Posted_Date": "October 15, 2023",
+       "Reading_Time": 8 ,
+       "Hashtag": "#QuantumPhysics"
+    },
+    {
+       "ID": 67890,
+       "Cover": "https://i.ibb.co/ZVXmS1M/2.png",
+       "Title": "The Art of Gourmet Cooking: A Culinary Adventure",
+       "Author": "John Davis",
+       "Author_Image": "https://i.ibb.co/jr4QVM0/boy2.jpg",
+       "Posted_Date": "September 28, 2023",
+       "Reading_Time": 12,
+       "Hashtag": "#GourmetCuisine"
+    },
+    {
+       "ID": 24680,
+       "Cover": "https://i.ibb.co/G5mGpLj/3.png",
+       "Title": "Unraveling the Secrets of Ancient Civilizations",
+       "Author": "Eleanor Johnson",
+       "Author_Image": "https://i.ibb.co/V9xKTRM/girl1.jpg",
+       "Posted_Date": "November 5, 2023",
+       "Reading_Time": 10,
+       "Hashtag": "#AncientHistory"
+    },
+    {
+       "ID": 13579,
+       "Cover": "https://i.ibb.co/MnNFrbM/4.jpg",
+       "Title": "The Science of Space Exploration",
+       "Author": "David Lee",
+       "Author_Image": "https://i.ibb.co/JpGDrBv/girl2.jpg",
+       "Posted_Date": "December 12, 2023",
+       "Reading_Time": 9,
+       "Hashtag": "#SpaceScience"
+    }
+ ]
+ 
